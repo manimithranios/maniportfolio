@@ -210,7 +210,6 @@ struct ContactsView: View {
                     .foregroundColor(.lightCColor)
             }
 
-            // Mobile Section
             VStack(alignment: .leading, spacing: 4) {
                 Text("Linked in:")
                     .font(.customFont(font: .bold, size: 16))

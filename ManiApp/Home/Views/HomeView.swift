@@ -209,7 +209,7 @@ struct ContactsView: View {
                     .font(.customFont(font: .regular, size: 16))
                     .foregroundColor(.lightCColor)
             }
-
+            // Linked in Section
             VStack(alignment: .leading, spacing: 4) {
                 Text("Linked in:")
                     .font(.customFont(font: .bold, size: 16))
